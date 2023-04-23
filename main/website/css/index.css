@@ -5,6 +5,29 @@
 
 }
 
+form.form-example {
+    display: table;
+    margin-left: 5%;
+}
+
+div.form-example {
+    display: table-row;
+}
+
+#do-i-have-access {
+    justify-items: center;
+}
+
+label,
+input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+label {
+    padding-right: 10px;
+}
+
 .photo {
     max-width: 100px;
     height: 50 auto;
