@@ -1,0 +1,12 @@
+#canvas {
+    max-width: 100vw;
+    max-height: 100vh;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+@font-face {
+    font-family: ATTFont;
+    src: url(../assets/fonts/ATTAleckOtlSans_W_Bd.ttf);
+}
